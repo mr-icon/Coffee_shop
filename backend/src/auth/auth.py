@@ -5,7 +5,7 @@ from jose import jwt
 from urllib.request import urlopen
 
 
-AUTH0_DOMAIN = 'dev-3bnjl6tn.us.auth0.com'
+AUTH0_DOMAIN = 'dev-m021ayi6.us.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'coffeeAPI'
 
